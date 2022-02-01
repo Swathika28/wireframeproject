@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](./11.png)
+![output](./12.png)
+![output](./13.png)
 
 
 ## Result:
